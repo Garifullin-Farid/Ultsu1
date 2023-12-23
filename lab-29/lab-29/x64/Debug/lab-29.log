@@ -1,0 +1,3 @@
+﻿  TextProcessingFile.c
+C:\уник\ОАиП_(Савельев)\lab-29\files\TextProcessingFile.c(35,2): warning C4013: TextProcessing: нет определения; предполагается "extern" с возвратом типа "int"
+  lab-29.vcxproj -> C:\уник\ОАиП_(Савельев)\lab-29\x64\Debug\lab-29.exe

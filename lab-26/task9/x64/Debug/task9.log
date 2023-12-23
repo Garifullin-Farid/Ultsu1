@@ -1,0 +1,3 @@
+﻿  task9.cpp
+C:\уник\ОАиП_(Савельев)\lab-26\task9\task9.cpp(63,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  task9.vcxproj -> C:\уник\ОАиП_(Савельев)\lab-26\x64\Debug\task9.exe
